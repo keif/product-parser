@@ -1,0 +1,5 @@
+﻿"Master Catalog Name","Price List Name","PriceList Code","Parent PriceList Code","Description","Enabled","Filtered In Storefront","Valid For All Sites","Valid Sites","Indexed Sites","Default For Sites","Mapped Customer Segments","Resolvable","Resolution Rank","Created By"
+"Mystic Outdoors Master","Boutique LVR","uniqueprice","","","Yes","No","No","","","","BackPackingClub","Yes","","5bd9b03997284327b3d93dddc5cb0a08"
+"Mystic Outdoors Master","CA Pricelist","ca","","","Yes","Yes","Yes","","","","","No","","23b217d441384742a54656fb87bce83d"
+"Mystic Outdoors Master","Glove Resellers","GR145","","","Yes","No","No","45499, 45500","","","wholesaler","Yes","","23b217d441384742a54656fb87bce83d"
+"Mystic Outdoors Master","Back Pack Club Price List","BackPackClub","","","Yes","No","Yes","","","","BackPackingClub","Yes","","6240894e177248fa8dde53d7951ce7be"

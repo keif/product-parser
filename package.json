@@ -1,0 +1,15 @@
+{
+  "name": "product-parser",
+  "version": "1.0.0",
+  "description": "Kibo to Monetate product parser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keith T. Baker",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "fast-csv": "^4.1.3"
+  }
+}
