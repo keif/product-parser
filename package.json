@@ -9,7 +9,7 @@
   "author": "Keith T. Baker",
   "license": "ISC",
   "dependencies": {
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "fast-csv": "^4.1.3"
   }
 }
